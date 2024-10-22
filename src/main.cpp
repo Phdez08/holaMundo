@@ -1,6 +1,8 @@
 #include <iostream>
 #include <Porcentaje.hpp>
 #include <list>
+//INSTRUCCIONES DEL PRE-PROCESADOR, las instrucciones con simbolo #
+
 
 int main(){
 
