@@ -1,7 +1,7 @@
-Compilar: src/main.cpp
+bin/programa: src/main.cpp include/*.hpp
 	g++ src/main.cpp -Iinclude -o bin/programa
 
-Ejecutar: bin/programa
+ejecutar: bin/programa
 	./bin/programa
 
 Clean: bin/programa
