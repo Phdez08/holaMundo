@@ -2,6 +2,10 @@
 #include <iostream>
 #include <Foco.hpp>
 #include <list>
+/*
+Se usa el namespace para saber que estamos utlizando esa carpeta.
+De donde vamos a usar la libreria standar.
+*/
 using namespace std;
 
 class SerieNavidad
