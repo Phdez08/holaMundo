@@ -12,6 +12,7 @@ int main(int argc, char const *argv[])
 {
     std::string reset_position;
     int frame = 0;
+    
     auto can = Canvas(50,50);
     can.DrawPointLine (0, 0, 10, 10);
     auto ColorSupport = vbox({
